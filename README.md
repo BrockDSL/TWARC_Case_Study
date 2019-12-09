@@ -19,10 +19,11 @@ At the DSL we are big fans of data visualization so we set TWARC to harvest all 
  
 
 
-
+![Data Viz Word Cloud][wordcloud]
 
 
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
+[wordcloud]: datavizwordcloud.png

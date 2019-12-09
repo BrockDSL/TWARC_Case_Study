@@ -219,3 +219,8 @@ null
 lang
 url
 idstr
+en
+la
+di
+true
+false

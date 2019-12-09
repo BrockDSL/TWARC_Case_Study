@@ -15,7 +15,7 @@ The filter tool in TWARC is an active filter that captures any tweet that matche
 
 ## Our Example
 
-At the DSL we are big fans of data visualization so we set TWARC to harvest all tweets that included the keyword "datavisualization" for twenty-four hours.  This produced a file containing over four-hundred tweets!  We then used the R programming language to remove duplicate tweets (there were quite a few) and strip away the extra metadata that came with the tweets so that we could run some text analysis on them.  For mor information on that process feel free to check out the Jupyter Notebook file containing the code we used [here]()
+At the DSL we are big fans of data visualization so we set TWARC to harvest all tweets that included the keyword "datavisualization" for twenty-four hours.  This produced a file containing over four-hundred tweets!  We then used the R programming language to remove duplicate tweets (there were quite a few) and strip away the extra metadata that came with the tweets so that we could run some text analysis on them.  For mor information on that process feel free to check out the Jupyter Notebook file containing the code we used [here](https://github.com/BrockDSL/TWARC_Case_Study/blob/master/Example_Files/TWARC%20Json%20File%20Parsing%20in%20R.ipynb)
  
 
 

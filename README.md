@@ -1,7 +1,7 @@
 ![DSL Logo][dsllogo]
 
 
-# TWARC_Case_Study
+# TWARC Case Study
 Using TWARC to harvest twitter messages, cleaning the files in R, and doing text analysis and visualization using Voyant and Lexos
 
 

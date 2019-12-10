@@ -19,7 +19,11 @@ At the DSL we are big fans of data visualization so we set TWARC to harvest all 
 
 ![TWARC in Action][twarc]
 
-We then used the R programming language to remove duplicate tweets (there were quite a few) and strip away the extra metadata that came with the tweets so that we could perform text analysis on them.  Once we had a clean text file to work with we uploaded it into the Lexos software provided free online by Wheaton College in Massachusetts (check it out [here](https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/) if you are interested) and using a curated list of stopwords, we created a wordcloud out of our tweets showing the fifty most commonly used words.
+We then used the R programming language to remove duplicate tweets (there were quite a few) and strip away the extra metadata that came with the tweets so that we could perform text analysis on them.
+
+![Processing the Data][rprocess]
+
+Once we had a clean text file to work with we uploaded it into the Lexos software provided free online by Wheaton College in Massachusetts (check it out [here](https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/) if you are interested) and using a curated list of stopwords, we created a wordcloud out of our tweets showing the fifty most commonly used words.
 
 ![Data Viz Word Cloud][wordcloud]
 
@@ -36,3 +40,4 @@ We have provided all of the data that was used in this example [here](https://gi
 [dsllogo]: dsl_logo.png
 [wordcloud]: dataviz_wordcloud.png
 [twarc]: twarc.png
+[rprocess]: processing.png

@@ -11,7 +11,7 @@ The search tool in TWARC can look at every tweet from the last seven days and ha
 
 ### Filter
 
-The filter tool in TWARC is an active filter that captures any tweet that matches one of your keywords as it happens.  This is excellent for if there is an event that spans a few hours or days that you want to gather data on.  It can also be used to get an idea of how active a topic is within windows of minutes, hours, days, or even months.
+The filter tool in TWARC is an active filter that captures any tweet that matches one of your keywords as it happens.  This is excellent if there is an event that spans a few hours or days that you want to gather data on.  It can also be used to get an idea of how active a topic is within windows of minutes, hours, days, or even months.
 
 ## Our Example
 

@@ -23,7 +23,7 @@ We then used the R programming language to remove duplicate tweets (there were q
 
 ![Processing the Data][rprocess]
 
-Once we had a clean text file to work with we uploaded it into the Lexos software provided free online by Wheaton College in Massachusetts (check it out [here](https://wheatoncollege.edu/academics/special-projects-initiatives/lexomics/lexos-installers/) if you are interested) and using a curated list of stopwords, we created a wordcloud out of our tweets showing the fifty most commonly used words.
+Once we had a clean text file to work with we uploaded it to Voyant (try it out [here](https://voyant-tools.org/)) and using a curated list of stopwords, we created a wordcloud out of our tweets showing the fourty-five most commonly used words.
 
 ![Data Viz Word Cloud][wordcloud]
 
@@ -32,12 +32,12 @@ We have provided all of the data that was used in this example [here](https://gi
 - The original .json file that was produced by TWARC
 - A Jupyter Notebook containing the R code used to clean the data
 - The text file produced by the R scripts
-- Stopword lists formatted for use in either Lexos or Voyant
+- A stopword list formatted for use in Voyant
 
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
 [dsllogo]: dsl_logo.png
-[wordcloud]: dataviz_wordcloud.png
+[wordcloud]: voyantviz.png
 [twarc]: twarc.png
 [rprocess]: processing.png

@@ -23,7 +23,7 @@ We then used the R programming language to remove duplicate tweets (there were q
 
 ![Processing the Data][rprocess]
 
-Once we had a clean text file to work with we uploaded it to Voyant (try it out [here](https://voyant-tools.org/)) and using a curated list of stopwords, we created a wordcloud out of our tweets showing the fourty-five most commonly used words.
+Once we had a clean text file to work with we uploaded it to Voyant (try out Voyant [here](https://voyant-tools.org/)) and used a curated list of stopwords to create a wordcloud out of our tweets showing the fourty-five most commonly used words.
 
 ![Data Viz Word Cloud][wordcloud]
 

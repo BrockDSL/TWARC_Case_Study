@@ -27,12 +27,17 @@ Once we had a clean text file to work with we uploaded it to Voyant (try out Voy
 
 ![Data Viz Word Cloud][wordcloud]
 
-We have provided all of the data that was used in this example [here](https://github.com/BrockDSL/TWARC_Case_Study/tree/master/Example_Files).  Included is:
+We have provided all of the data that was used in this example [here](https://github.com/BrockDSL/TWARC_Case_Study/tree/master/Example_Files) so that you can run through the analysis yoursel if you would like!  Included is:
 
 - The original .json file that was produced by TWARC
 - A Jupyter Notebook containing the R code used to clean the data
 - The text file produced by the R scripts
 - A stopword list formatted for use in Voyant
+
+
+Do you have a project that would benefit from harvesting twitter data using TWARC?  We can help you with that!
+Do you have a corpus of textual data that you would like to do some analysis on?  Try out [Voyant](https://voyant-tools.org/) or go to our [Eventbrite](https://experiencebu.brocku.ca/organization/dsl/events) page and look for our next "R for Text Analysis" workshop and sign up!
+
 
 
 <!--- Please use reference style images so that it is easier to update pictures later --->

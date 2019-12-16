@@ -1,5 +1,3 @@
-![DSL Logo][dsllogo]
-
 
 # Harvesting Tweets for Data Visualisation
 
@@ -35,11 +33,13 @@ We have provided all of the data that was used in this example [here](https://gi
 - A stopword list formatted for use in Voyant
 
 
-Do you have a project that would benefit from harvesting twitter data using TWARC?  Contact us at DSL@brocku.ca!
+Do you have a project that would benefit from harvesting twitter data using TWARC?  We can help you with that!
 
 Do you have a corpus of textual data that you would like to do some analysis on?  Try out [Voyant](https://voyant-tools.org/) or go to our [Eventbrite](https://experiencebu.brocku.ca/organization/dsl/events) page and look for our next "R for Text Analysis" workshop and sign up!
 
+For other ideas, or help on your projects, come visit us in the Rankin Family Pavilion at Brock University or e-mail us at DSL@Brocku.ca.
 
+![DSL Logo][dsllogo]
 
 <!--- Please use reference style images so that it is easier to update pictures later --->
 
